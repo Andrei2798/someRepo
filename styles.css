@@ -1,0 +1,29 @@
+header
+{
+    height: 30px;
+    background-color: yellow;
+
+}
+
+main{
+    display: flex;
+    gap: 30px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    color:antiquewhite
+}
+
+.seller
+{
+    color:rgb(209, 19, 19);
+    background-color: greenyellow;
+}
+
+.customer
+{
+    background-color: rgb(50, 50, 143);
+
+}
